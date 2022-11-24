@@ -2,6 +2,7 @@
 # Desktop-Stytem
 ## 1.项目介绍
  * 桌面UI界面,程序可安装卸载运行
+ * 项目展示视频:https://www.bilibili.com/video/BV16D4y1s7Cc/?vd_source=4b7747d106b1d19643b7f3f9c6e34d22
 ## 2.说明
 *  桌面管理系统，实现对软件的管理运行
 *  内置多个软件
